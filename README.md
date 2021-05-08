@@ -30,7 +30,8 @@
 	<li>Microsoft Office</li>
 	<li>Windows </li>
 	<li>IrfanView</li>
-	<
+	
+	
 </ul>
 <hr>
 <p><b>
