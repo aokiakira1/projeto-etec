@@ -1,4 +1,4 @@
-# projeto-etec
+# CURRICULUM VITAE-ETEC PROJECT
 <html>
 
 <head>
