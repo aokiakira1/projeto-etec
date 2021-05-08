@@ -30,11 +30,11 @@
 	<li>Microsoft Office</li>
 	<li>Windows </li>
 	<li>IrfanView</li>
-	<li></li>
+	<
 </ul>
 <hr>
 <p><b>
-<!--webbot bot="Timestamp" S-Type="EDITED" S-Format="%A, %d de %B de %Y %H:%M:%S" --></b></p>
+<!--Projeto desenvolvido por Ricardo Akira Aoki em 08/05/2021 --></b></p>
 <p>&nbsp;</p>
 
 </body>
